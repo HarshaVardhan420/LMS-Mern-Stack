@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    
+    text-decoration: none;
+}
+
+.navitem a:hover {
+    color:rgba(248, 252, 248, 0.911) !important;
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+small{
+  color: rgb(241, 16, 16);
+}
+
+.slide-description p {
+  color:#fff
+}
+
+.slide-description h5 {
+  color:#fff
+}
+
+.textcard h1{
+  color: rgba(46, 45, 45, 0.849);
+  text-transform: capitalize;
+  font-size: 40px;
+}
+
+.textcard h3{
+  color: rgba(46, 45, 45, 0.849);
+  font-size: 30px;
+}
+.textcard h4{
+  color: rgba(46, 45, 45, 0.849);
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.panel-dashboard{
+  box-sizing: border-box;
+  padding: 50px;
+}
+
+.top-adjust{
+  margin-top: 50px!important;
+}
+
+.col-auto{
+  padding: 10px!important;
+   margin: 10px!important;
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+.row {
+  width: 100%
+}
+
+.flot{
+  position: relative;
+  float: right;
+  right: 40%;
+}
+
+.img-size{
+  padding: 10px!important;
+  width: 200px !important;
+  height: 200px!important;
+  border: 1px solid rgba(194, 191, 191, 0.39);
+}
+
+.title-book{
+  font-size: 2rem !important;
+}
+
+.p-desc{
+  font-size: 12px !important;
+  color:rgb(41, 43, 43)
+}
